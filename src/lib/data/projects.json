@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Figma Plugins",
+        "description": "As a Front End Developer, I worked on Figma plugins, automating tasks and improving collaboration. I created plugins for asset export, code snippets, and design feedback. These streamlined our workflow, saving time and enhancing design consistency. It was rewarding to contribute to the Figma community and improve our design process.",
+        "links": [{
+            "name" : "Append Dimensions",
+            "url" : "playground.com"
+        },
+        {
+            "name" : "Name From Text",
+            "url" : "playground.com"
+        }
+        ]
+    },
+    {
+        "title": "Staples Pages",
+        "description": "As a Front End Developer at Staples, I collaborated with a team to quickly develop essential web pages like Back to School, About Us, and Black Friday. I successfully integrated React into our workflow, enabling us to build dynamic and interactive user interfaces. Additionally, I created animation prototypes using Figma, improving the visual appeal of our web projects. I also adapted to office productivity software like Microsoft Teams+Office, Jira, and Figjam, and built a productive work-from-home (WFH) environment.",
+        "links": [{
+            "name" : "Iron Mountain",
+            "url" : "link here"
+        }
+
+        ]
+    },
+    {
+        "title": "Sveltekit Timer",
+        "description": "In my role, I took on the challenge of developing a Timer app using SvelteKit. I built an intuitive user interface with features like setting timers, countdown functionality, and customizable alerts. Leveraging SvelteKit's reactive nature, I ensured smooth and responsive interactions. The app was designed to be user-friendly, visually appealing, and provided an efficient time management solution. Through this project, I honed my SvelteKit skills and delivered a practical application for users.",
+        "links": [{
+            "name" : "append dimensions",
+            "url" : "playground.com"
+        },
+        {
+            "name" : "name from text",
+            "url" : "playground.com"
+        }
+        ]
+    },
+    {
+        "title" : "Vue X Refresh",
+        "description": "remade this page with vue",
+        "links": [
+            
+        ]
+    }
+]

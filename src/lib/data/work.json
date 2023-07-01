@@ -1,0 +1,42 @@
+[
+      {
+        "img_url": "/staples_logo.png",
+        "title": "Front End Developer",
+        "employer": "Staples",
+        "startDate": "2022",
+        "endDate": "Present",
+        "responsibilities": [
+          "Worked with team to develop Back to School, About Us, and Black Friday pages on short notice",
+          "Researched and successfully implemented React into our front-end workflow",
+          "Created animation prototypes and CMS components in Figma",
+          "Learned office productivity software including Jira, Microsoft Teams and Outlook, and Figjam",
+          "Built a productive work from home environment"
+        ]
+      },
+      {
+        "img_url": "/bu_logo.png",
+        "title": "Web Developer",
+        "employer": "Boston University Adlab",
+        "startDate": "2022",
+        "endDate": "2022",
+        "responsibilities": [
+          "Developed workflow to test new ideas as MVPs in Squarespace",
+          "Presented ideas and MVPs to leadership for approval and feedback",
+          "Distilled knowledge into concise documentation to increase productivity of future Adlab web developers",
+          "Won an award for best marketing approach"
+        ]
+      },
+      {
+        "img_url": "/stormalong_logo.png",
+        "title": "Brand Ambassador",
+        "employer": "Stormalong Cider",
+        "startDate": "2021",
+        "endDate": "2021",
+        "responsibilities": [
+          "Answered customer questions at liquor store tastings and festivals",
+          "Relayed customer feedback to leadership",
+          "Handled myself without supervision"
+        ]
+      }
+]
+  
